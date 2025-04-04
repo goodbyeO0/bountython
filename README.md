@@ -46,9 +46,3 @@ The application provides the following API endpoints:
 3. Set up your Solana RPC endpoint
 4. Configure environment variables
 5. Run the application
-
-## Environment Variables
-
-Required environment variables:
-
-- `SOLANA_RPC`: Your Solana RPC endpoint
